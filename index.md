@@ -10,7 +10,7 @@ Lab 10 is a fun activity because it involves just going in and pinpointing the t
 
 
 Lab 7
-Lab 7 was also very interesting, as it just involved pinpointing certain keywords from the terminal input with the command-line prompts to ensure we got the right words and made sure it was the right size, and making all the parking spaces invalid was definitely a struggle, as each one brought its own new problem to deal with. One of the hardest labs due to the many factors that you had to keep in mind. 
+Lab 7 was also very interesting, as it just involved pinpointing certain keywords from the terminal input with the command-line prompts to ensure we got the right words and made sure it was the right size, and making all the parking spaces invalid was definitely a struggle, as each one brought its own new problem to deal with. One of the hardest labs due to the many factors that you had to keep in mind.
 
 
 Lab 5 part 2
