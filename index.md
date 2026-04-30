@@ -2,6 +2,7 @@
 # Christopher Hinojos's Portfolio
 
 Hello I am a computer engineer major at CSUF and I plan on graduating in 2029
+This is my github profile https://github.com/ChristopherHinojos
 
 ## Favorite CPSC 120L Labs 
 
