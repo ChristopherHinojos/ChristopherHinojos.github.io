@@ -5,7 +5,7 @@ Hello I am a computer engineer major at CSUF and I plan on graduating in 2029
 
 ## Favorite CPSC 120L Labs 
 
-Lab 10 part 1 
+Lab 10 part 1
 Lab 10 is a fun activity because it involves just going in and pinpointing the text in the document, making sure it's text, and converting it. I found it very interesting how you pinpoint certain words in the document and how you convert them into different forms, like integers, and save them in the strings. It took a while to figure but once you had one done, the others were very easy. So it was smooth once the first roadblock was over. 
 
 
