@@ -9,7 +9,7 @@ Lab 10 part 1
 Lab 10 is a fun activity because it involves just going in and pinpointing the text in the document, making sure it's text, and converting it. I found it very interesting how you pinpoint certain words in the document and how you convert them into different forms, like integers, and save them in the strings. It took a while to figure but once you had one done, the others were very easy. So it was smooth once the first roadblock was over. 
 
 
-Lab 7
+Lab 7 
 Lab 7 was also very interesting, as it just involved pinpointing certain keywords from the terminal input with the command-line prompts to ensure we got the right words and made sure it was the right size, and making all the parking spaces invalid was definitely a struggle, as each one brought its own new problem to deal with. One of the hardest labs due to the many factors that you had to keep in mind.
 
 
